@@ -7,7 +7,7 @@ namespace fordina.Grandpa
         public Grumpiness LevelOfGrumpiness;
         public string[] Phrases;
         public byte NumberOfBruises;
-        public Granddad(string name, Grumpiness levelOfGrumpiness, string[] phrases, byte numberOfBruises)
+        public Granddad(string name, Grumpiness levelOfGrumpiness, string[] phrases, byte numberOfBruises = 0)
         {
             Name = name;
             LevelOfGrumpiness = levelOfGrumpiness;
