@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="fordina/fordina.csproj" />
-  <Project Path="homework4/fortumakov.csproj" />
+  <Project Path="fordina/fordina.csproj" Id="7800c202-8fe0-4eb2-9a03-704fca00b9f6" />
+  <Project Path="homework4/fortumakov.csproj" Id="4c1f931a-2e70-46e0-a87c-3ca7f450c45c" />
 </Solution>
