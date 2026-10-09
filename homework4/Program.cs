@@ -131,9 +131,7 @@ namespace homework4
                     throw new ArgumentException();
                 }
                 if (number == 0 )
-                {
-                    return 0;
-                }
+                { 
                 if (number == 1)
                 {
                     return 1;
