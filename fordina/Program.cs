@@ -88,7 +88,7 @@ namespace fordina
                 Thread.Sleep(3000);
                 Console.ResetColor();
                 Console.Clear();
-                Console.WriteLine("Введенное число выходит из диапозона от 0 до 9!");
+                Console.WriteLine("Введенное число выходит из диапозона от 0 до 9! ");
             }
 
         }
