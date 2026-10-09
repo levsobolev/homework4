@@ -130,7 +130,7 @@ namespace homework4
                 {
                     throw new ArgumentException();
                 }
-                if (number == 0)
+                if (number == 0 )
                 {
                     return 0;
                 }
